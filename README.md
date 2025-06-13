@@ -29,4 +29,5 @@ Feature and Highlights:The Daikibo Tech Team has successfully compiled telemetry
 
 Through this project, I deepened my expertise in data visualization, hand on json file format, git and github, honing my ability to transform refined telemetry into meaningful, actionable insights!
 
-Screenshots: 
+Screenshots: Screenshot 2025-06-13 121814.png
+
