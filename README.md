@@ -8,7 +8,7 @@ Built with Tableau, this dashboard transforms complex data into actionable insig
 👩‍💻Technology Stack: The Dashboard visualization used the following technology for its completion-
 💻Tableau Public - Main data visualization platform to visualize the .json format of data fro report creation
 🌐HTML - To make the dashboard presentation and access convenient
-🔗Git- For version control and clear record of changes in the project files, locally and remotely 
+🔗Git-bash- For version control and clear record of changes in the project files, locally and remotely 
 📟Data Analysis Expressions(DAX)- To calculate the downtime parameter to classify unhealthy devices and which factory 
                                 needed more attention
 
