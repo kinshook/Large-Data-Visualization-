@@ -31,3 +31,8 @@ Through this project, I deepened my expertise in data visualization, hand on jso
 
 Screenshots: Screenshot 2025-06-13 121814.png,  https://github.com/kinshook/Large-Data-Visualization-/tree/main
 
+STEPS TO VIEW THE VISUALIZATION:
+📄Copy the html code on your Notepad/any document file and SAVE with a .html extension.
+🖱️Right click on the saved file. 
+🖼️From the dialog box, select Open with -> select your browser to launch the file.
+
